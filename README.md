@@ -1,6 +1,6 @@
 # SBSPS-Challenge-10022-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety
 SafeZone: Real-time Video Analytics for Industrial Safety
-
+See our Demo video here: https://youtu.be/WbTavbpT2WA?si=MSTDnpvvUrxJ1OJs
 OVERVIEW:
 Industrial Safety is essential for promoting worker safety ,preventing accidents, ensuring compliance, and enhancing overall operational efficiency in industrial environments .By leveraging advanced video analytics technologies, it offers aproactive and data-driven approach to industrial safety management. So here the problem is to develop a real-time video analytics tool, that enhances industrial safety by detecting and preventing potential hazards and unsafe situations in industrial environments.
 PURPOSE:
